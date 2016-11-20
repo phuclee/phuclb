@@ -1,0 +1,16 @@
+com/fujitsu/model/StdHdr.class
+com/fujitsu/model/FileTime.class
+com/fujitsu/binarydata/PasteSection04.class
+com/fujitsu/binarydata/PasteSection03.class
+com/fujitsu/model/SectionHdr.class
+com/fujitsu/SmallBinaryFiles.class
+com/fujitsu/model/OptHdr.class
+com/fujitsu/binarydata/PasteSection011.class
+com/fujitsu/binarydata/PasteSection012.class
+com/fujitsu/binarydata/PasteSection02.class
+com/fujitsu/model/WinHdr.class
+com/fujitsu/model/ParamConst.class
+com/fujitsu/binarydata/PasteSection05.class
+com/fujitsu/binarydata/PasteHdr.class
+com/fujitsu/model/CoffHdr.class
+com/fujitsu/model/DivInfo.class
